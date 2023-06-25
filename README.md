@@ -136,7 +136,7 @@ SignInOutput
 
 >## Contributors
 
-Suvadip Majhi(suvadipmajhi1997)
+Shailendra Rajak(Software developer)
 
 >## Project Summary
 This application has a well-defined architecture with clear separation of concerns. Each layer has its own set of responsibilities and communicates with other layers in a decoupled way. This makes the application modular and easy to maintain.
